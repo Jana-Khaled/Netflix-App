@@ -1,4 +1,4 @@
-# Netflix-App
+# Netflix-App Clone
 
 Netflix pages designed by figma 
 
