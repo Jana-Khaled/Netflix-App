@@ -1,6 +1,7 @@
 # Netflix-App Clone
 
 Netflix pages designed by figma 
+Behance Link:
 
-https://www.figma.com/file/Y7kkoUaidbioJLl9icfrP5/Netflix?type=design&node-id=0%3A1&mode=design&t=QUQVbqeSjLValTin-1
+https://www.behance.net/gallery/198832177/Netflix-Design-Recreation
 
